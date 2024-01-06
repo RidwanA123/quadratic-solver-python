@@ -1,6 +1,7 @@
 solve1 = 0
 solve2 = 0
-from math import*   #libraries
+# test something
+from math import*   #libraries 
 import re 
 print("Welcome to a quadratic solver! To solve, you need to enter your equation below in this format with proper spaces: ax + bx + c = 0 and variables must have a 1 beside them not just the variable itself")
 print("Put a 0 if there if c is non existent")
